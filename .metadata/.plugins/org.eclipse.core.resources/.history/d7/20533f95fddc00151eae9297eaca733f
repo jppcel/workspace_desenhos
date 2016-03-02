@@ -1,0 +1,18 @@
+package desenhos;
+
+public class Des_E implements Desenhar{
+
+	private int SIZE = 0;
+	
+	@Override
+	public void setSIZE(int a) {
+		SIZE = a;	
+	}
+
+	@Override
+	public void desenhar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

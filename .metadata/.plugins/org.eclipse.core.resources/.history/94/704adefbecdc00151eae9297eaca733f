@@ -1,0 +1,8 @@
+package desenhos;
+
+public interface Desenhar {
+	public static void (int a){
+		
+	}
+
+}

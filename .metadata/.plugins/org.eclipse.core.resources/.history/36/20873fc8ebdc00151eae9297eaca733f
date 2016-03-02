@@ -1,0 +1,6 @@
+package desenhos;
+
+public class Desenho {
+	private int SIZE = 0;
+
+}

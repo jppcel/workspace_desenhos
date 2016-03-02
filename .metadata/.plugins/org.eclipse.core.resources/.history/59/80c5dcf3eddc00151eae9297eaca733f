@@ -1,0 +1,10 @@
+package desenhos;
+
+public interface Desenhar {
+	
+	public static void setSIZE(int a){
+		
+	};
+	public abstract void desenhar();
+
+}

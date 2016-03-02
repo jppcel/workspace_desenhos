@@ -1,0 +1,10 @@
+package desenhos;
+
+public class Des_A {
+	private int SIZE = 0;
+	
+	public void setSIZE(int a){
+		SIZE = a;
+	}
+	
+}

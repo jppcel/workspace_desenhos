@@ -1,0 +1,9 @@
+package desenhos;
+
+public class Main {
+	public static void main(String[] args) {
+		Des_A d = new Des_A();
+		d.desenhar();
+		
+	}
+}

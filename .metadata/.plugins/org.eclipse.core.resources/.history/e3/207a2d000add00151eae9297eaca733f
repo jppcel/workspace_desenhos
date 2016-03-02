@@ -1,0 +1,10 @@
+package desenhos;
+
+public class Main {
+	public static void main(String[] args) {
+		Des_K d = new Des_K();
+		d.setSIZE(12);
+		d.desenhar();
+		
+	}
+}

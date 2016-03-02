@@ -1,0 +1,18 @@
+package desenhos;
+
+public class Des_A implements Desenhar {
+	
+	private int SIZE = 0;
+	
+	@Override
+	public void setSIZE(int a) {
+		SIZE = a;
+	}
+
+	public void desenhar() {
+		
+		
+	}
+		
+
+}

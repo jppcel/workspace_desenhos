@@ -1,0 +1,11 @@
+package desenhos;
+
+public abstract class Desenho {
+	private int SIZE = 0;
+	
+	public void setSIZE(int a){
+		SIZE = a;
+	}
+	
+	public abstract void desenhar();
+}
