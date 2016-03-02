@@ -17,7 +17,7 @@ public class Des_R implements Desenhar {
 					if (col > (SIZE/2)) {
 						System.out.print("x");
 					} else {
-						System.out.print(col + 1); //testegit
+						System.out.print(col + 1);
 					}
 				
 				} else {
